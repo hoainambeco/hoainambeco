@@ -1,153 +1,136 @@
-<h1 align="center">Hi there👋, I'm Nguyễn Hoài Nam</h1>
-<h3 align="center">A passionate backend developer from Viet Nam</h3>
-<!-- Profile views -->
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nguyen Hoai nam
+=======================================================================================================================================
+
+A passionate backend developer from Viet Nam
+--------------------------------------------
+
+Nguyen Hoai Nam – Full-Stack Developer  
+ 📍 Experience: 2+ years in backend, frontend, and DevOps.  
+ 📍 Tech Stack:  
+      Backend: NestJS, Node.js, PostgreSQL, Redis, OpenSearch, GraphQL, Microservices, WebSockets.  
+      Frontend: Next.js, React.js, TypeScript, Zustand.  
+      DevOps: Docker, CI/CD (GitHub Actions, GitLab Runner), AWS (EC2, S3, ECR, RDS), Nginx.  
+ 📍 Work Experience:  
+      DATH Solutions JSC (2024-Present) – Full-Stack Developer, leading Acanet social network and Telegram mini-app.  
+      Bytesoft Vietnam JSC (2022-2024) – Backend Developer, worked on business management and voting platforms.  
+ 📍 Projects:  
+      Acanet (2024-Present): A social network with real-time communication and airdrop automation via Telegram bot.  
+      BOffice (2022-2024): Business operations management system.  
+      Bvote (2022): Online shareholder voting platform.  
+ 📍 Education:  
+      Graduated from FPT Polytechnic (Mobile Programming).  
+      Currently in the final semester at the University of Transport and Communications (Information Technology).  
+ I am eager to bring my expertise to your team and contribute to impactful projects. Looking forward to discussing how I can add value to your organization.
+
+* 🌍  I'm based in Vietnam
+* 🖥️  See my portfolio at [My portfolio](http://pimob.site)
+* ✉️  You can contact me at [namxg1@gmail.com](mailto:namxg1@gmail.com)
+* 🚀  I'm currently working on [Bytesoft Việt Nam](http://bytesoft.vn)
+* 🧠  I'm learning Go, devops
+
+### Skills
 <p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=hoainambeco&label=Profile%20views&color=0e75b6&style=flat"
-    alt="hoainambeco" />
-</p>
-<!-- Profile trophy -->
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=hoainambeco"
-      alt="hoainambeco"
-  /></a>
-</p>
-<!-- twitter -->
-<p align="left">
-  <a href="https://twitter.com/hoainampimob" target="blank"
-    ><img
-      src="https://img.shields.io/twitter/follow/hoainampimob?logo=twitter&style=for-the-badge"
-      alt="hoainampimob"
-  /></a>
-</p>
-
-- 🔭 I’m currently working on [Bytesoft Việt Nam](https://bytesoft.vn/)
-
-- 🌱 I’m currently learning **react, devops**
-
-- 👨‍💻 All of my projects are available at [https://pimob.site/](https://pimob.site/)
-
-- 💬 Ask me about **NestJS, NodeJS, MongoDB, Postgres,...**
-
-- 📫 How to reach me **namxg1@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/hoainampimob" target="blank"
-    ><img
-      align="center"
-      src="./public/twitter.svg"
-      alt="hoainampimob"
-      height="30"
-      width="40"
-  /></a>
-  <a
-    href="https://linkedin.com/in/nam-nguy%e1%bb%85n-ho%c3%a0i-115436301"
-    target="blank"
-    ><img
-      align="center"
-      src="./public/linked-in-alt.svg"
-      alt="nam-nguy%e1%bb%85n-ho%c3%a0i-115436301"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://fb.com/nam12122410" target="blank"
-    ><img
-      align="center"
-      src="./public/facebook.svg"
-      alt="nam12122410"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://instagram.com/nhnpimob" target="blank"
-    ><img
-      align="center"
-      src="./public/instagram.svg"
-      alt="nhnpimob"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://discord.gg/becopitvn" target="blank"
-    ><img
-      align="center"
-      src="./public/discord.svg"
-      alt="becopitvn"
-      height="30"
-      width="40"
-  /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<h4 align="left">Languages:</h4>
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="margin-left: 10">
-    <img src="./public/java-original.svg" alt="java" width="40" height="40" />
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
   </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer" style="margin-left: 10">
-    <img src="./public/csharp-original.svg" alt="csharp" width="40" height="40" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin-left: 10">
-    <img src="./public/javascript-original.svg" alt="javascript" width="40" height="40" />
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="margin-left: 10">
-    <img src="./public/typescript-original.svg" alt="typescript" width="40" height="40" />
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" />
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="margin-left: 10">
-    <img src="./public/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" />
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="margin-left: 10">
-    <img src="./public/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
   </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer" style="margin-left: 10">
-    <img src="./public/unity3d-icon.svg" alt="unity" width="40" height="40" />
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
   </a>
-</p>
-
-<h4 align="left">Operating system:</h4>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer" style="margin-left: 10">
-    <img src="./public/android-original-wordmark.svg" alt="android" width="40" height="40" />
+  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" />
   </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="margin-left: 10">
-    <img src="./public/linux-original.svg" alt="linux" width="40" height="40" />
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
   </a>
-  <a href="https://www.debian.org/" target="_blank" rel="noreferrer" style="margin-left: 10">
-    <img src="./public/debian-icon.svg" alt="debian" width="40" height="40" />
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
   </a>
-  <a href="https://www.microsoft.com/vi-vn/windows/get-windows-11" target="_blank" rel="noreferrer" style="margin-left: 10">
-    <img src="./public/windows11-original.svg" alt="windows11" width="40" height="40" />
+  <a href="https://mui.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" />
   </a>
-  <a href="https://www.microsoft.com/vi-vn/windows-365" target="_blank" rel="noreferrer" style="margin-left: 10">
-    <img src="./public/microsoft-windows-365-cloud-pc-3.svg" alt="windows365" width="40" height="40" />
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" />
   </a>
-  <a href="https://www.microsoft.com/vi-vn/windows-server" target="_blank" rel="noreferrer" style="margin-left: 10">
-    <img src="./public/Windows_Server_logo.svg" alt="windowsServer" width="200" height="40" />
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" />
   </a>
-</p>
-
-<h4 align="left">Devops:</h4>
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="margin-left: 10">
-    <img src="./public/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" />
+  </a>
+  <a href="https://graphql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" />
+  </a>
+  <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" />
+  </a>
+  <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+  </a>
+  <a href="https://metamask.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" />
+  </a>
+  <a href="https://ethers.io" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" width="36" height="36" alt="Ethers" />
+  </a>
+  <a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" />
+  </a>
+  <a href="https://hardhat.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" alt="Hardhat" />
+  </a>
+  <a href="https://trufflesuite.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/truffle-colored.svg" width="36" height="36" alt="Truffle" />
+  </a>
+  <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" />
+  </a>
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" />
+  </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" height="36" alt="Amazon Web Services" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
+  </a>
+  <a href="https://www.linux.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
   </a>
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer" style="margin-left: 10">
     <img src="./public/microsoft_azure-icon.svg" alt="azure" width="40" height="40" />
   </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer" style="margin-left: 10">
-    <img src="./public/google_cloud-icon.svg" alt="gcp" width="40" height="40" />
-  </a>
   <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer" style="margin-left: 10">
     <img src="./public/digitalocean-official.svg" alt="digitalocean" width="40" height="40" />
   </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" style="margin-left: 10">
-    <img src="./public/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
-  </a>
   <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer" style="margin-left: 10">
     <img src="./public/powershell-original.svg" alt="powershell" width="40" height="40" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="margin-left: 10">
-    <img src="./public/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
   </a>
   <a href="https://heroku.com" target="_blank" rel="noreferrer" style="margin-left: 10">
     <img src="./public/heroku-icon.svg" alt="heroku" width="40" height="40" />
@@ -158,87 +141,20 @@
   <a href="https://www.cloudflare.com" target="_blank" rel="noreferrer" style="margin-left: 10">
     <img src="./public/cloudflare-original.svg" alt="cloudflare" width="40" height="40" />
   </a>
-</p>
-
-<h4 align="left">Database:</h4>
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="margin-left: 10">
-    <img src="./public/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" style="margin-left: 10">
-    <img src="./public/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin-left: 10">
-    <img src="./public/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="margin-left: 10">
-    <img src="./public/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer" style="margin-left: 10">
-    <img src="./public/sqlite-icon.svg" alt="sqlite" width="40" height="40" />
-  </a>
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer" style="margin-left: 10">
     <img src="./public/oracle-original.svg" alt="oracle" width="40" height="40" />
   </a>
   <a href="https://redis.io" target="_blank" rel="noreferrer" style="margin-left: 10">
     <img src="./public/redis-original-wordmark.svg" alt="redis" width="40" height="40" />
   </a>
-</p>
-<h4 align="left">Library and framework:</h4>
-<p align="left">
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer" style="margin-left: 10">
-    <img src="./public/babeljs-icon.svg" alt="babel" width="40" height="40" />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="margin-left: 10">
-    <img src="./public/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="margin-left: 10">
-    <img src="./public/express-original-wordmark.svg" alt="express" width="40" height="40" />
-  </a>
   <a href="https://handlebarsjs.com/" target="_blank" rel="noreferrer" style="margin-left: 10">
     <img src="./public/handlebars-original.svg" alt="handlebars" width="40" height="40" />
-  </a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer" style="margin-left: 10">
-    <img src="./public/graphql-icon.svg" alt="graphql" width="40" height="40" />
-  </a>
-  <a href="https://gulpjs.com" target="_blank" rel="noreferrer" style="margin-left: 10">
-    <img src="./public/gulp-plain.svg" alt="gulp" width="40" height="40" />
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="margin-left: 10">
     <img src="./public/firebase-icon.svg" alt="firebase" width="40" height="40" />
   </a>
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer" style="margin-left: 10">
-    <img src="./public/jestjsio-icon.svg" alt="jest" width="40" height="40" />
-  </a>
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer" style="margin-left: 10">
-    <img src="./public/apache_kafka-icon.svg" alt="kafka" width="40" height="40" />
-  </a>
-  <a href="https://mochajs.org" target="_blank" rel="noreferrer" style="margin-left: 10">
-    <img src="./public/mochajs-icon.svg" alt="mocha" width="40" height="40" />
-  </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer" style="margin-left: 10">
-    <img src="./public/nestjs-original.svg" alt="nestjs" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="margin-left: 10">
-    <img src="./public/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-  </a>
-  <a href="https://pugjs.org" target="_blank" rel="noreferrer" style="margin-left: 10">
-    <img src="./public/pug.svg" alt="pug" width="40" height="40" />
-  </a>
   <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer" style="margin-left: 10">
     <img src="./public/pptrdev-official.svg" alt="puppeteer" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin-left: 10">
-    <img src="./public/react-original-wordmark.svg" alt="react" width="40" height="40" />
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer" style="margin-left: 10">
-    <img src="./public/header_logo.svg" alt="reactnative" width="40" height="40" />
-  </a>
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer" style="margin-left: 10">
-    <img src="./public/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" />
-  </a>
-  <a href="https://lodash.com" target="_blank" rel="noreferrer" style="margin-left: 10">
-    <img src="./public/lodash-original.svg" alt="lodash" width="40" height="40" />
   </a>
   <a href="https://socket.io/" target="_blank" rel="noreferrer" style="margin-left: 10">
     <img src="./public/socketio-ar21.svg" alt="socket.io" width="100" height="40" />
@@ -252,26 +168,17 @@
   <a href="https://swagger.io/" target="_blank" rel="noreferrer" style="margin-left: 10">
     <img src="./public/swagger-original.svg" alt="swagger" width="40" height="40" />
   </a>
-</p>
-<h4 align="left">Software:</h4>
-<p align="left">
   <a href="https://www.jetbrains.com/datagrip/" target="_blank" rel="noreferrer" style="margin-left: 10">
     <img src="./public/datagrip-original.svg" alt="datagrip" width="40" height="40" />
   </a>
   <a href="https://www.jetbrains.com/intellij/" target="_blank" rel="noreferrer" style="margin-left: 10">
     <img src="./public/intellij-original.svg" alt="intellij" width="40" height="40" />
   </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" style="margin-left: 10">
-    <img src="./public/vscode-original.svg" alt="vscode" width="40" height="40" />
-  </a>
   <a href="https://dbeaver.io" target="_blank" rel="noreferrer" style="margin-left: 10">
     <img src="./public/dbeaver-original.svg" alt="dbeaver" width="40" height="40" />
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="margin-left: 10">
     <img src="./public/figma-icon.svg" alt="figma" width="40" height="40" />
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer" style="margin-left: 10">
-    <img src="./public/photoshop-line.svg" alt="photoshop" width="40" height="40" />
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer" style="margin-left: 10">
     <img src="./public/getpostman-icon.svg" alt="postman" width="40" height="40" />
@@ -287,23 +194,38 @@
   </a>
 </p>
 
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=hoainambeco&show_icons=true&locale=en&layout=compact"
-    alt="hoainambeco" />
+
+### Socials
+<p align="left">
+  <a href="https://www.github.com/hoainambeco" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+    </picture>
+  </a>
+  <a href="https://www.linkedin.com/in/nam-nguyễn-hoài-115436301" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+    </picture>
+  </a>
+  <a href="https://www.x.com/hoainampimob" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+    </picture>
+  </a>
 </p>
 
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=hoainambeco&show_icons=true&locale=en"
-    alt="hoainambeco" />
-</p>
+### Badges
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=hoainambeco&"
-    alt="hoainambeco" />
-</p>
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/hoainambeco"><img src="https://github-readme-stats.vercel.app/api?username=hoainambeco&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="hoainambeco's GitHub stats" /></a>
+
+<a href="http://www.github.com/hoainambeco"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hoainambeco&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/hoainambeco" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoainambeco&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
