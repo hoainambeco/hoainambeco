@@ -1,26 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nguyen Hoai nam
-=======================================================================================================================================
+<h2 align="center">Hi !<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> My name is Nguyen Hoai nam</h2>
+<h2 align="center">A passionate backend developer from Viet Nam
+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
-A passionate backend developer from Viet Nam
 --------------------------------------------
-
-Nguyen Hoai Nam – Full-Stack Developer  
- 📍 Experience: 2+ years in backend, frontend, and DevOps.  
- 📍 Tech Stack:  
-      Backend: NestJS, Node.js, PostgreSQL, Redis, OpenSearch, GraphQL, Microservices, WebSockets.  
-      Frontend: Next.js, React.js, TypeScript, Zustand.  
-      DevOps: Docker, CI/CD (GitHub Actions, GitLab Runner), AWS (EC2, S3, ECR, RDS), Nginx.  
- 📍 Work Experience:  
-      DATH Solutions JSC (2024-Present) – Full-Stack Developer, leading Acanet social network and Telegram mini-app.  
-      Bytesoft Vietnam JSC (2022-2024) – Backend Developer, worked on business management and voting platforms.  
- 📍 Projects:  
-      Acanet (2024-Present): A social network with real-time communication and airdrop automation via Telegram bot.  
-      BOffice (2022-2024): Business operations management system.  
-      Bvote (2022): Online shareholder voting platform.  
- 📍 Education:  
-      Graduated from FPT Polytechnic (Mobile Programming).  
-      Currently in the final semester at the University of Transport and Communications (Information Technology).  
- I am eager to bring my expertise to your team and contribute to impactful projects. Looking forward to discussing how I can add value to your organization.
 
 * 🌍  I'm based in Vietnam
 * 🖥️  See my portfolio at [My portfolio](http://pimob.site)
