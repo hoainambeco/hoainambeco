@@ -5,9 +5,9 @@
 --------------------------------------------
 
 * 🌍  I'm based in Vietnam
-* 🖥️  See my portfolio at [My portfolio](http://pimob.site)
+* 🖥️  See my portfolio at [My portfolio](https://pimob.site)
 * ✉️  You can contact me at [namxg1@gmail.com](mailto:namxg1@gmail.com)
-* 🚀  I'm currently working on [Bytesoft Việt Nam](http://bytesoft.vn)
+* 🚀  I'm currently working on [IGB Việt Nam](https://igb.vn/)
 * 🧠  I'm learning Go, devops
 
 ### Skills
